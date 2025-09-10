@@ -11,16 +11,18 @@ Key functions include:
 2. Behavioral reminders — proactively alerts users when they are about to exceed budgets or approach quarterly limits, preventing missed opportunities and overspending.
 
 **Why:**
-Consumers today often hold multiple credit cards (campus cards, no-annual-fee cards, airline co-branded cards, etc.), but cashback rates and capping rules across merchants and categories are complex and non-transparent. This causes users to miss out on optimal cashback or reward opportunities at the point of purchase.
-The problem is especially significant for:
-- Students, who have limited budgets and need guidance to stretch every dollar.
-- Working professionals, who manage frequent, diverse expenses like dining, groceries, commuting, and business travel.
-- Homemakers (housewives/househusbands), who often oversee household budgets and daily spending, and can benefit from maximizing rewards on routine purchases such as groceries, utilities, and family needs.
+Consumers today often hold multiple credit cards (campus cards, no-annual-fee cards, airline co-branded cards, etc.). However, cashback rates and capping rules across merchants and categories are complex and non-transparent. This complexity often causes users to miss out on optimal cashback or reward opportunities at the point of purchase.
 
-A single wrong card choice or overspending decision can result in significant opportunity costs. With smart recommendations and timely reminders, users can avoid waste, maximize the value of each expense, and make money management easier and more cost-effective.
+A single wrong card choice or overspending decision can result in significant opportunity costs. With smart recommendations and timely reminders, users can avoid waste, maximize the value of each expense, and make money management both easier and more cost-effective.
 
 ## For whom?
+The problem is especially significant for:
 
+- Students : who have limited budgets and need guidance to stretch every dollar.
+- Working professionals : who manage frequent, diverse expenses such as dining, groceries, commuting, and business travel.
+- Homemakers (housewives/househusbands) : who often oversee household budgets and daily spending, and benefit from maximizing rewards on routine purchases like groceries, utilities, and family needs.
+
+As an international student managing tuition, rent, and day-to-day expenses in a high-cost city, I often found it difficult to figure out which credit card would give me the best rewards or savings for a specific purchase. If a tool like CardWise had existed back then, it would have helped me make smarter financial choices and reduced a lot of unnecessary stress. I believe many other students in similar situations would benefit from such a system.
 
 ## How?
 From an end-user's perspective, CardWise Automations will work like this:
