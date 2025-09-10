@@ -5,7 +5,15 @@ CardWise Automations: Smarter Finance and Rewards Management
 
 ## What and why?
 **What:**
-
+CardWise is a smart credit card management system designed to help users maximize rewards and control spending. From an end-user’s perspective, CardWise Automations will work as follows:
+1. Sign in & import — Users can log in, upload a CSV statement (e.g., from Chase or BoA), or manually record purchases.
+2. Automatic categorization & dashboard — Transactions are categorized (dining, groceries, travel, etc.) and displayed in a clear dashboard with top merchants, spending summaries, and estimated rewards.
+3. Card recommendation — Before paying, users can tap “Which card should I use?” to see the recommended card, expected rewards, and a brief explanation.
+4. Create automations — Users can set up custom rules:
+- Trigger: budget threshold (e.g., groceries > $300) or schedule (e.g., weekly).
+- Action: email/Discord reminder, pinned notification, or auto-generated report.
+- Once saved, CardWise automatically delivers reminders or reports.
+5. Reports & reflection — Each month, users receive a “Spending & Rewards Report Card” summarizing top categories, best/worst card usage, and suggestions for optimization.
 
 **Why:**
 
