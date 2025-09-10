@@ -25,13 +25,6 @@ From an end-user's perspective, CardWise Automations will work like this:
    - Save → the system now automatically reminds or generates reports.  
 5. **Reports & reflection**: Receive a monthly “Spending & Rewards Report Card” showing top categories, best/worst card usage, and suggestions for next month.  
 
-
-## Scope
-This project is well-scoped for **a team of 4–6 programmers over one semester**:  
-
-- **Not too easy:** goes beyond simple expense tracking by adding automation triggers, reward logic, and proactive notifications.
-- **Not too ambitious:** does not require machine learning or third-party banking integrations—rules and multipliers are pre-configured, and automations are limited to simple threshold/schedule triggers.
-
 **Minimum viable features (MVP):**  
 - User accounts (sign in/out).  
 - Transaction import (CSV + manual).  
@@ -44,3 +37,20 @@ This project is well-scoped for **a team of 4–6 programmers over one semester*
 - Dashboard with charts and a monthly report.  
 
 **Stretch goals:** OCR receipt scanning, sharing reports with roommates, or advanced automation actions.
+
+## Scope
+This project is well-scoped for **a team of 4–6 programmers over one semester**:  
+
+- **Not too easy:** goes beyond simple expense tracking by adding automation triggers, reward logic, and proactive notifications.
+- **Not too ambitious:** does not require machine learning or third-party banking integrations—rules and multipliers are pre-configured, and automations are limited to simple threshold/schedule triggers.
+- **Web app only:** we are building a responsive web application (MERN). It will be accessible from both desktop and mobile browsers. No native iOS/Android apps are required.  
+
+**Team division of work (clear roles):**
+- **Frontend**: responsive web UI and charts (usable on desktop and mobile browsers).  
+- **Backend**: API design, rules engine, authentication.  
+- **Data & async tasks**: transaction import/parsing, monthly report generation, scheduled triggers.  
+- **Integration & testing**: seed data, usability testing with real students, system integration.
+
+## Credit
+- [Polaris Wu](https://github.com/Polaris-Wu450)
+- [Kate Zhou](https://github.com/XiaohanZhou711)
