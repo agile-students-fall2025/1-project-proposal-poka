@@ -11,8 +11,13 @@ Key functions include:
 2. Behavioral reminders — proactively alerts users when they are about to exceed budgets or approach quarterly limits, preventing missed opportunities and overspending.
 
 **Why:**
+Consumers today often hold multiple credit cards (campus cards, no-annual-fee cards, airline co-branded cards, etc.), but cashback rates and capping rules across merchants and categories are complex and non-transparent. This causes users to miss out on optimal cashback or reward opportunities at the point of purchase.
+The problem is especially significant for:
+- Students, who have limited budgets and need guidance to stretch every dollar.
+- Working professionals, who manage frequent, diverse expenses like dining, groceries, commuting, and business travel.
+- Homemakers (housewives/househusbands), who often oversee household budgets and daily spending, and can benefit from maximizing rewards on routine purchases such as groceries, utilities, and family needs.
 
-
+A single wrong card choice or overspending decision can result in significant opportunity costs. With smart recommendations and timely reminders, users can avoid waste, maximize the value of each expense, and make money management easier and more cost-effective.
 
 ## For whom?
 
